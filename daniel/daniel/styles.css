@@ -1,0 +1,25 @@
+body {
+    color: #6bb5e6;
+    background: rgb(120, 205, 216);
+    margin: 0px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(81, 209, 198);
+    padding: 20px;
+    font-size: 36px;
+    color: rgb(87, 197, 192);
+}
+
+section {
+    background: rgb(96, 194, 197);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
